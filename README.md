@@ -1,7 +1,7 @@
 - Hi, I’m @lilf4p
 - I’m interested in computer science
 - I’m currently learning at Unipi, Italy
-- C, Java, OCaml, Sql, Linux env <3
+- C, Java, OCaml, Sql, Linux env 
 - Check out @lilf4p on instagram 
 
 <!---
