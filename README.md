@@ -11,7 +11,7 @@
 - 🧐 I am interested in Machine Learning and intelligent system
 - 🌱 Currently learning NLP and Pattern Recognition, new languages and much more :)
 - 📫 Reach me at [leostoppa999@gmail.com](mailto:leostoppa999@gmail.com) and [lilf4p](https://twitter.com/lilf4p)
-- 🌐 Visit my [Portfolio](https://lilf4p.github.io/my-app/)!
+- 🌐 Visit my [Portfolio](https://lilf4p.github.io/portfolio/)!
 
 ##### SKILLS
 - 💻 I know Python, C/C++, Java, Matlab
