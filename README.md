@@ -1,6 +1,6 @@
 ### Hi there, I'm Leonardo 👋
 
-#### I am a 24 years old Master Student in Artificial Intelligence at University of Pisa.
+#### I am a 25 years old Master Student in Artificial Intelligence at University of Pisa.
 
 ##### BIO
 - 🎓 I have a Bachelor's Degree in Computer Science at University of Pisa 
